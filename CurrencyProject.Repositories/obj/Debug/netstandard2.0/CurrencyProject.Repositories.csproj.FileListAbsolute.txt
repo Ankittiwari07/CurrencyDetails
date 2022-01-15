@@ -1,0 +1,10 @@
+D:\ClientTasks\Currency\CurrencyProject.Repositories\bin\Debug\netstandard2.0\CurrencyProject.Repositories.deps.json
+D:\ClientTasks\Currency\CurrencyProject.Repositories\bin\Debug\netstandard2.0\CurrencyProject.Repositories.dll
+D:\ClientTasks\Currency\CurrencyProject.Repositories\bin\Debug\netstandard2.0\CurrencyProject.Repositories.pdb
+D:\ClientTasks\Currency\CurrencyProject.Repositories\obj\Debug\netstandard2.0\CurrencyProject.Repositories.csproj.AssemblyReference.cache
+D:\ClientTasks\Currency\CurrencyProject.Repositories\obj\Debug\netstandard2.0\CurrencyProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClientTasks\Currency\CurrencyProject.Repositories\obj\Debug\netstandard2.0\CurrencyProject.Repositories.AssemblyInfoInputs.cache
+D:\ClientTasks\Currency\CurrencyProject.Repositories\obj\Debug\netstandard2.0\CurrencyProject.Repositories.AssemblyInfo.cs
+D:\ClientTasks\Currency\CurrencyProject.Repositories\obj\Debug\netstandard2.0\CurrencyProject.Repositories.csproj.CoreCompileInputs.cache
+D:\ClientTasks\Currency\CurrencyProject.Repositories\obj\Debug\netstandard2.0\CurrencyProject.Repositories.dll
+D:\ClientTasks\Currency\CurrencyProject.Repositories\obj\Debug\netstandard2.0\CurrencyProject.Repositories.pdb

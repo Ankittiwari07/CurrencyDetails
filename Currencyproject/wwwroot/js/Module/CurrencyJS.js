@@ -20,16 +20,20 @@ function GetCurrencyList() {
 }
 
 
-function BindDataTable(data) {
+function BindDataTable(data) {   // Provide the Currency List data to Datatable for binding,
     if ($.fn.dataTable.isDataTable('#tblCurrencyList')) {
         $('#tblCurrencyList').DataTable().clear().destroy();
     }
     table = $('#tblCurrencyList').DataTable({
+        dom: 'Bfrtip',    //buttons for export the dataset into the selected formats.
+        buttons: [
+             'excelHtml5', 'pdfHtml5', 'csvHtml5'
+        ],
         "searching": true,
         "paging": true,
         "ordering": true,
         "info": false,
-        data: data,
+        data: data,  //Bind the Source data to datacolumns
         "columns": [
             {
                 "data": "country",
