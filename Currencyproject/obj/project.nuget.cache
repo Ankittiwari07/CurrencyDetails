@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZpqS06SPKLlWFcZ0lN1Yz1GxGonc9ItNbwErxDnTDD0OczG2+bCDCe5f3aIhsbGjMbjJCpmmD5/z+bkG5ZVeHg==",
+  "dgSpecHash": "0iuBi1tZnxsguTH201CZMwYz7NFoPgY08CHDSz91JEg77uBCS/jwZMY1NR64H5NoLV4dtv5VQVeBf3SjEXyqmA==",
   "success": true,
-  "projectFilePath": "D:\\ClientTasks\\Currencyproject\\Currencyproject\\Currencyproject.Client.csproj",
+  "projectFilePath": "D:\\ClientTasks\\Currency\\Currencyproject\\Currencyproject.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ankit Tiwari\\.nuget\\packages\\grpc.core\\2.43.0\\grpc.core.2.43.0.nupkg.sha512",
     "C:\\Users\\Ankit Tiwari\\.nuget\\packages\\grpc.core.api\\2.43.0\\grpc.core.api.2.43.0.nupkg.sha512",

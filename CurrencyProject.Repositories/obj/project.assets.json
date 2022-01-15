@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ClientTasks\\Currencyproject\\CurrencyProject.Repositories\\CurrencyProject.Repositories.csproj",
+      "projectUniqueName": "D:\\ClientTasks\\Currency\\CurrencyProject.Repositories\\CurrencyProject.Repositories.csproj",
       "projectName": "CurrencyProject.Repositories",
-      "projectPath": "D:\\ClientTasks\\Currencyproject\\CurrencyProject.Repositories\\CurrencyProject.Repositories.csproj",
+      "projectPath": "D:\\ClientTasks\\Currency\\CurrencyProject.Repositories\\CurrencyProject.Repositories.csproj",
       "packagesPath": "C:\\Users\\Ankit Tiwari\\.nuget\\packages\\",
-      "outputPath": "D:\\ClientTasks\\Currencyproject\\CurrencyProject.Repositories\\obj\\",
+      "outputPath": "D:\\ClientTasks\\Currency\\CurrencyProject.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ankit Tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",

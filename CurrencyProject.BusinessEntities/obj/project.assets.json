@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ClientTasks\\Currencyproject\\CurrencyProject.BusinessEntities\\CurrencyProject.BusinessEntities.csproj",
+      "projectUniqueName": "D:\\ClientTasks\\Currency\\CurrencyProject.BusinessEntities\\CurrencyProject.BusinessEntities.csproj",
       "projectName": "CurrencyProject.BusinessEntities",
-      "projectPath": "D:\\ClientTasks\\Currencyproject\\CurrencyProject.BusinessEntities\\CurrencyProject.BusinessEntities.csproj",
+      "projectPath": "D:\\ClientTasks\\Currency\\CurrencyProject.BusinessEntities\\CurrencyProject.BusinessEntities.csproj",
       "packagesPath": "C:\\Users\\Ankit Tiwari\\.nuget\\packages\\",
-      "outputPath": "D:\\ClientTasks\\Currencyproject\\CurrencyProject.BusinessEntities\\obj\\",
+      "outputPath": "D:\\ClientTasks\\Currency\\CurrencyProject.BusinessEntities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ankit Tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",

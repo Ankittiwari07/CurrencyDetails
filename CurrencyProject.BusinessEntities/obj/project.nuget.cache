@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3VMfIIDSu9RbeDuzdsU9lMRGqpH4jGfCz0u2imet2gg8RSu+6kXD0pHq1qFk5VHdTxmmB6rWv4mi7rxcql35IA==",
+  "dgSpecHash": "3I+5U9iOh8pZy4uERlNTxsL118r6T7G602EDoy0Pddvg4/H5ZKKXYgXLbNxae3o3pcF6py0lMF024H7udJQPSg==",
   "success": true,
-  "projectFilePath": "D:\\ClientTasks\\Currencyproject\\CurrencyProject.BusinessEntities\\CurrencyProject.BusinessEntities.csproj",
+  "projectFilePath": "D:\\ClientTasks\\Currency\\CurrencyProject.BusinessEntities\\CurrencyProject.BusinessEntities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ankit Tiwari\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ankit Tiwari\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

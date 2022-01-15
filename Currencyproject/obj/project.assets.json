@@ -6462,11 +6462,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ClientTasks\\Currencyproject\\Currencyproject\\Currencyproject.Client.csproj",
+      "projectUniqueName": "D:\\ClientTasks\\Currency\\Currencyproject\\Currencyproject.Client.csproj",
       "projectName": "Currencyproject.Client",
-      "projectPath": "D:\\ClientTasks\\Currencyproject\\Currencyproject\\Currencyproject.Client.csproj",
+      "projectPath": "D:\\ClientTasks\\Currency\\Currencyproject\\Currencyproject.Client.csproj",
       "packagesPath": "C:\\Users\\Ankit Tiwari\\.nuget\\packages\\",
-      "outputPath": "D:\\ClientTasks\\Currencyproject\\Currencyproject\\obj\\",
+      "outputPath": "D:\\ClientTasks\\Currency\\Currencyproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ankit Tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6483,8 +6483,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\ClientTasks\\Currencyproject\\CurrencyProject.BusinessEntities\\CurrencyProject.BusinessEntities.csproj": {
-              "projectPath": "D:\\ClientTasks\\Currencyproject\\CurrencyProject.BusinessEntities\\CurrencyProject.BusinessEntities.csproj"
+            "D:\\ClientTasks\\Currency\\CurrencyProject.BusinessEntities\\CurrencyProject.BusinessEntities.csproj": {
+              "projectPath": "D:\\ClientTasks\\Currency\\CurrencyProject.BusinessEntities\\CurrencyProject.BusinessEntities.csproj"
             }
           }
         }
