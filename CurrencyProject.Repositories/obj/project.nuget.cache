@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "37R/YOfum9YLNvADF94+KURy0QcRkeRIpLAJ+ugQ1QEhk44IRfn7gtzzOx9uQgJjjxwSufHGfQ7mN/NPS/zDAQ==",
+  "success": true,
+  "projectFilePath": "D:\\ClientTasks\\Currencyproject\\CurrencyProject.Repositories\\CurrencyProject.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ankit Tiwari\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ankit Tiwari\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

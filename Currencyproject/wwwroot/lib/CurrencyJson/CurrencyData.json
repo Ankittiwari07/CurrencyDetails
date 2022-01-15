@@ -1,0 +1,370 @@
+[
+  {
+    "Country": "India",
+    "CurrencyName": "inr",
+    "eur": "84.711997",
+    "btc": "3146401.652121"
+  },
+  {
+    "Country": "Cardano",
+    "CurrencyName": "ada",
+    "eur": "0.922244",
+    "btc": "34254.314795"
+  },
+  {
+    "Country": "United Arab Emirates Dirham",
+    "CurrencyName": "aed",
+    "eur": "4.20747",
+    "btc": "156275.274201"
+  },
+  {
+    "Country": "Afghan afghani",
+    "CurrencyName": "afn",
+    "eur": "120.276111",
+    "btc": "4467336.006269"
+  },
+  {
+    "Country": "Albanian lek",
+    "CurrencyName": "all",
+    "eur": "122.280216",
+    "btc": "4541773.152203"
+  },
+  {
+    "Country": "Armenian dram",
+    "CurrencyName": "amd",
+    "eur": "122.280216",
+    "btc": "20457344.865831"
+  },
+  {
+    "Country": "Netherlands Antillean Guilder",
+    "CurrencyName": "ang",
+    "eur": "2.065345",
+    "btc": "76711.742732"
+  },
+  {
+    "Country": "Angolan kwanza",
+    "CurrencyName": "aoa",
+    "eur": "607.10603",
+    "btc": "22549337.560825"
+  },
+  {
+    "Country": "Argentine peso",
+    "CurrencyName": "ars",
+    "eur": "118.860968",
+    "btc": "4414774.286196"
+  },
+  {
+    "Country": "Australian dollar",
+    "CurrencyName": "aud",
+    "eur": "1.574113",
+    "btc": "58466.237596"
+  },
+  {
+    "Country": "Aruban florin",
+    "CurrencyName": "awg",
+    "eur": "2.06244",
+    "btc": "76603.844239"
+  },
+  {
+    "Country": "Azerbaijani manat",
+    "CurrencyName": "azn",
+    "eur": "1.946187",
+    "btc": "72285.935983"
+  },
+  {
+    "Country": "Bosnia-Herzegovina Convertible Mark",
+    "CurrencyName": "bam",
+    "eur": "1.955279",
+    "btc": "72623.634123"
+  },
+  {
+    "Country": "Bajan dollar",
+    "CurrencyName": "bbd",
+    "eur": "2.313747",
+    "btc": "85937.973855"
+  },
+  {
+    "Country": "Bitcoin Cash",
+    "CurrencyName": "bch",
+    "eur": "0.003023",
+    "btc": "112.280357"
+  },
+  {
+    "Country": "Bangladeshi taka",
+    "CurrencyName": "bdt",
+    "eur": "98.523243",
+    "btc": "3659383.623638"
+  },
+  {
+    "Country": "Sri Lankan rupee",
+    "CurrencyName": "lkr",
+    "eur": "232.486975",
+    "btc": "8635109.879851"
+  },
+  {
+    "Country": "Bulgarian lev",
+    "CurrencyName": "bgn",
+    "eur": "1.955111",
+    "btc": "72617.39421"
+  },
+  {
+    "Country": "Bahraini dinar",
+    "CurrencyName": "bhd",
+    "eur": "0.431946",
+    "btc": "16043.484467"
+  },
+  {
+    "Country": "Burundian Franc",
+    "CurrencyName": "bif",
+    "eur": "2299.55498",
+    "btc": "85410849.04674"
+  },
+  {
+    "Country": "Belize dolla",
+    "CurrencyName": "bzd",
+    "eur": "2.309849",
+    "btc": "85793.19302"
+  },
+  {
+    "Country": "Canadian dollar",
+    "CurrencyName": "cad",
+    "eur": "1.433857",
+    "btc": "53256.801793"
+  },
+  {
+    "Country": "Congolese franc",
+    "CurrencyName": "cdf",
+    "eur": "2297.836337",
+    "btc": "85347014.626987"
+  },
+  {
+    "Country": "Swiss franc",
+    "CurrencyName": "chf",
+    "eur": "1.043996",
+    "btc": "38776.452634"
+  },
+  {
+    "Country": "Chilean Unit of Account (UF)",
+    "CurrencyName": "clf",
+    "eur": "0.033896",
+    "btc": "1258.9767"
+  },
+  {
+    "Country": "Belize dollar",
+    "CurrencyName": "bzd",
+    "eur": "2.309849",
+    "btc": "85793.19302"
+  },
+  {
+    "Country": "Czech koruna",
+    "CurrencyName": "czk",
+    "eur": "24.54115",
+    "btc": "911515.695999"
+  },
+  {
+    "Country": "Djiboutian franc",
+    "CurrencyName": "djf",
+    "eur": "203.575296",
+    "btc": "7561262.517107"
+  },
+  {
+    "Country": "Danish krone",
+    "CurrencyName": "dkk",
+    "eur": "7.441625",
+    "btc": "276399.353382"
+  },
+  {
+    "Country": "Dogecoin",
+    "CurrencyName": "doge",
+    "eur": "6.389132",
+    "btc": "237307.318924"
+  },
+  {
+    "Country": "Dominican peso",
+    "CurrencyName": "dop",
+    "eur": "66.151791",
+    "btc": "2457032.201627"
+  },
+  {
+    "Country": "Algerian dinar",
+    "CurrencyName": "dzd",
+    "eur": "160.036313",
+    "btc": "5944122.880524"
+  },
+  {
+    "Country": "Egyptian pound",
+    "CurrencyName": "egp",
+    "eur": "17.975127",
+    "btc": "667638.248333"
+  },
+  {
+    "Country": "Eritrean nakfa",
+    "CurrencyName": "ern",
+    "eur": "17.182251",
+    "btc": "638188.979697"
+  },
+  {
+    "Country": "Ethiopian birr",
+    "CurrencyName": "etb",
+    "eur": "56.644402",
+    "btc": "2103905.542874"
+  },
+  {
+    "Country": "Ethereum Classic",
+    "CurrencyName": "etc",
+    "eur": "0.038031",
+    "btc": "1412.545816"
+  },
+  {
+    "Country": "Ether",
+    "CurrencyName": "eth",
+    "eur": "0.000352",
+    "btc": "13.05847"
+  },
+  {
+    "Country": "Euro",
+    "CurrencyName": "eur",
+    "eur": "1",
+    "btc": "37142.338317"
+  },
+  {
+    "Country": "Fijian dollar",
+    "CurrencyName": "fjd",
+    "eur": "2.418742",
+    "btc": "89837.733667"
+  },
+  {
+    "Country": "Falkland Islands pound",
+    "CurrencyName": "fkp",
+    "eur": "0.833819",
+    "btc": "30969.987394"
+  },
+  {
+    "Country": "Pound sterling",
+    "CurrencyName": "gbp",
+    "eur": "0.835458",
+    "btc": "31030.863686"
+  },
+  {
+    "Country": "Georgian lari",
+    "CurrencyName": "gel",
+    "eur": "3.522374",
+    "btc": "130829.206789"
+  },
+  {
+    "Country": "GGPro",
+    "CurrencyName": "ggp",
+    "eur": "0.833819",
+    "btc": "30969.987394"
+  },
+  {
+    "Country": "Guyanaese Dollar",
+    "CurrencyName": "gyd",
+    "eur": "239.833819",
+    "btc": "263145.332807"
+  },
+  {
+    "Country": "Hong Kong dollar",
+    "CurrencyName": "hkd",
+    "eur": "8.921071",
+    "btc": "331349.437236"
+  },
+  {
+    "Country": "Hungarian forint",
+    "CurrencyName": "huf",
+    "eur": "354.698136",
+    "btc": "13174318.167881"
+  },
+  {
+    "Country": "Indonesian rupiah",
+    "CurrencyName": "idr",
+    "eur": "16370.425947",
+    "btc": "608035898.924258"
+  },
+  {
+    "Country": "Israeli New Shekel",
+    "CurrencyName": "ils",
+    "eur": "3.564768",
+    "btc": "132403.819079"
+  },
+  {
+    "Country": "CoinIMP",
+    "CurrencyName": "imp",
+    "eur": "0.833819",
+    "btc": "30969.987394"
+  },
+  {
+    "Country": "Icelandic króna",
+    "CurrencyName": "isk",
+    "eur": "147.217447",
+    "btc": "5468000.222705"
+  },
+  {
+    "Country": "Jersey Pound",
+    "CurrencyName": "jep",
+    "eur": "0.833819",
+    "btc": "30969.987394"
+  },
+  {
+    "Country": "Jordanian dina",
+    "CurrencyName": "jod",
+    "eur": "0.812166",
+    "btc": "6588207.537867"
+  },
+  {
+    "Country": "Kenyan shilling",
+    "CurrencyName": "kes",
+    "eur": "129.908695",
+    "btc": "4825112.700069"
+  },
+  {
+    "Country": "Laotian Kip",
+    "CurrencyName": "lak",
+    "eur": "12926.763529",
+    "btc": "480130224.343809"
+  },
+  {
+    "Country": "Zimbabwean Dollar",
+    "CurrencyName": "zwl",
+    "eur": "368.844715",
+    "btc": "13699755.191134"
+  },
+  {
+    "Country": "South African rand",
+    "CurrencyName": "zar",
+    "eur": "17.656429",
+    "btc": "655801.059396"
+  },
+  {
+    "Country": "Yemeni rial",
+    "CurrencyName": "yer",
+    "eur": "286.657041",
+    "btc": "10647112.797902"
+  },
+  {
+    "Country": "XRP",
+    "CurrencyName": "xrp",
+    "eur": "1.482969",
+    "btc": "55080.920453"
+  },
+  {
+    "Country": "CFP franc",
+    "CurrencyName": "xpf",
+    "eur": "119.664886",
+    "btc": "4444633.680531"
+  },
+  {
+    "Country": "Uzbekistani som",
+    "CurrencyName": "uzs",
+    "eur": "12428.479257",
+    "btc": "461622781.33492"
+  },
+  {
+    "Country": "Qatari Rial",
+    "CurrencyName": "qar",
+    "eur": "4.170751",
+    "btc": "154911.44468"
+  }
+]
+
+

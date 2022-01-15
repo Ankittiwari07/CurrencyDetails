@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "List";
+}
+
+<h1>Curreny and Country List</h1>
+<div class="form-group row">
+
+    <div class="col-sm-12">
+        <table class="table table-striped table-bordered table-condensed table-hover table-scrollable dataTable no-footer" id="tblCurrencyList" role="grid" aria-describedby="tblFileDetails_info">
+            <thead>
+                <tr class="head-grey">
+                    <th>Country</th>
+                    <th>CurrencyName</th>
+                    <th>EUR</th>
+                    <th>BTC</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="~/js/Module/CurrencyJS.js"></script>
+<script>
+    $(document).ready(function () {
+        GetCurrencyList();
+    });
+</script>

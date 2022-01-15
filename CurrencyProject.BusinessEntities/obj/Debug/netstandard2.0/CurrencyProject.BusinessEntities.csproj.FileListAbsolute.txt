@@ -1,0 +1,10 @@
+D:\ClientTasks\Currencyproject\CurrencyProject.BusinessEntities\bin\Debug\netstandard2.0\CurrencyProject.BusinessEntities.deps.json
+D:\ClientTasks\Currencyproject\CurrencyProject.BusinessEntities\bin\Debug\netstandard2.0\CurrencyProject.BusinessEntities.dll
+D:\ClientTasks\Currencyproject\CurrencyProject.BusinessEntities\bin\Debug\netstandard2.0\CurrencyProject.BusinessEntities.pdb
+D:\ClientTasks\Currencyproject\CurrencyProject.BusinessEntities\obj\Debug\netstandard2.0\CurrencyProject.BusinessEntities.csproj.AssemblyReference.cache
+D:\ClientTasks\Currencyproject\CurrencyProject.BusinessEntities\obj\Debug\netstandard2.0\CurrencyProject.BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClientTasks\Currencyproject\CurrencyProject.BusinessEntities\obj\Debug\netstandard2.0\CurrencyProject.BusinessEntities.AssemblyInfoInputs.cache
+D:\ClientTasks\Currencyproject\CurrencyProject.BusinessEntities\obj\Debug\netstandard2.0\CurrencyProject.BusinessEntities.AssemblyInfo.cs
+D:\ClientTasks\Currencyproject\CurrencyProject.BusinessEntities\obj\Debug\netstandard2.0\CurrencyProject.BusinessEntities.csproj.CoreCompileInputs.cache
+D:\ClientTasks\Currencyproject\CurrencyProject.BusinessEntities\obj\Debug\netstandard2.0\CurrencyProject.BusinessEntities.dll
+D:\ClientTasks\Currencyproject\CurrencyProject.BusinessEntities\obj\Debug\netstandard2.0\CurrencyProject.BusinessEntities.pdb
